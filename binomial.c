@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Calculate
+//Calculate the 
 void main() {
   int n;
   printf("enter power: ");
