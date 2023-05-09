@@ -1,5 +1,5 @@
 #include <stdio.h>
-//Calculate the 
+//Calculate the binomial
 void main() {
   int n;
   printf("enter power: ");
