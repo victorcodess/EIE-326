@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 //Calculate the binomial
 void main() {
   int n;
